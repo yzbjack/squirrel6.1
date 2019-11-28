@@ -19,7 +19,7 @@
 </head>
 <body>
 	<div id="loginbox">
-	<h1 style="text-align:center;">鲁大二手工坊管理系统</h1>
+	<h1 style="text-align:center;">三院二手工坊管理系统</h1>
 		<form id="loginform" class="form-vertical" action="<%=basePath%>admin/index" method="post" role="form">
 			<div class="control-group normal_text">
 			</div>
@@ -46,10 +46,10 @@
 			</div>
 		</form>
 	</div>
-	<script src="<%=basePath%>js/jquery.min.js"/></script>
+	<script src="<%=basePath%>js/jquery.min.js"/>
 	<script src="<%=basePath%>js/matrix.login.js" type="text/javascript" charset="utf-8"></script>
-	<script src="<%=basePath%>js/jquery.validate.js"/></script>
-	<script src="<%=basePath%>js/jquery.md5.js"/></script>
+	<script src="<%=basePath%>js/jquery.validate.js"/>
+	<script src="<%=basePath%>js/jquery.md5.js"/>
 	<script type="text/javascript">
     $("#loginform").validate({
         rules: {

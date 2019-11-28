@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Maven: javax.servlet:jstl:1.2">
     <CLASSES>
-      <root url="jar://D:/maven/repo/javax/servlet/jstl/1.2/jstl-1.2.jar!/" />
+      <root url="jar://D:/Maven/repo/javax/servlet/jstl/1.2/jstl-1.2.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://D:/maven/repo/javax/servlet/jstl/1.2/jstl-1.2-javadoc.jar!/" />

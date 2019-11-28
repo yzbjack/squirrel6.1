@@ -9,7 +9,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>鲁大二手工坊</title>
+    <title>三院二手工坊</title>
     <link rel="icon" href="<%=basePath%>img/logo.jpg" type="image/x-icon"/>
     <link rel="stylesheet" href="<%=basePath%>css/index.css" />
     <script type="text/javascript" src="<%=basePath%>js/jquery.js" ></script>
@@ -72,7 +72,7 @@
     <nav class="white nav1">
         <div class="nav-wrapper">
             <a href="<%=basePath%>goods/homeGoods" class="logo">
-                <em class="em1">鲁大</em>
+                <em class="em1">三院</em>
                 <em class="em2">二手工坊</em>
                 <em class="em3">ldu.market</em>
             </a>
@@ -267,7 +267,7 @@
             <p class="bargain">可讲价</p>
             <p>
                 <i class="iconfont"></i>
-                <em class="item-location">鲁东大学</em>
+                <em class="item-location">三峡学院</em>
             </p>
         </div>
         <div class="publisher-info-title">
@@ -332,7 +332,7 @@
     <p class="section">描述：${goodsExtend.goods.describle}</p>
     <p class="section"></p>
     <p class="section">
-        联系我的时候，请说明是在“鲁大二手工坊”上看见的哦~
+        联系我的时候，请说明是在“三院二手工坊”上看见的哦~
     </p>
 </div>
 <div class="row detail-area">
